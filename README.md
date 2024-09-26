@@ -7,7 +7,7 @@ Maven template that creates a minimal, best-practices-based Adobe Experience Man
 
 ## Welcome
 
-* **Contributions** are welcome, read our [contributing guide](CONTRIBUTING.md) for more information.
+Hey Folks !!! Welcome to the AEM Boiler Plate for TCZ-AEM Project its valid for AEM EDGE AND AEM 6.5
 
 ## Documentation
 
